@@ -1,0 +1,19 @@
+{
+  "name": "logtrack-assets",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LogTrack/logtrack-assets.git"
+  },
+  "author": "Bertrand Choubert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LogTrack/logtrack-assets/issues"
+  },
+  "homepage": "https://github.com/LogTrack/logtrack-assets#readme"
+}
